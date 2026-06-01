@@ -1,1 +1,0 @@
-var json_OptionA_20 = {"type":"FeatureCollection","name":"OptionA_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Selite":"Grid connection option A \r\n(DC substation)"},"geometry":{"type":"Point","coordinates":[25.167354040625778,61.855055972384669]}}]}

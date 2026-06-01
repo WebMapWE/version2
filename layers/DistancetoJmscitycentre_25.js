@@ -1,1 +1,0 @@
-var json_DistancetoJmscitycentre_25 = {"type":"FeatureCollection","name":"DistancetoJmscitycentre_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Selite":"Jämsä city centre\r\n1,5 km"},"geometry":{"type":"Point","coordinates":[25.189439638596131,61.863807222453325]}}]}

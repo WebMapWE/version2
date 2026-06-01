@@ -1,1 +1,0 @@
-var json_OptionB_19 = {"type":"FeatureCollection","name":"OptionB_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Selite":"Grid connection option B \r\n(Fingrid Toivila substation)"},"geometry":{"type":"Point","coordinates":[25.125588454690487,61.890292363873435]}}]}

@@ -1,1 +1,0 @@
-var json_DistancetoTampere_23 = {"type":"FeatureCollection","name":"DistancetoTampere_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Selite":"Tampere economic area\r\n90 km\r\n1 h drive (South-West)"},"geometry":{"type":"Point","coordinates":[25.153057980774975,61.846844140916126]}}]}
