@@ -1,0 +1,1 @@
+var json_JmsnaluelmpOy_3 = {"type":"FeatureCollection","name":"JmsnaluelmpOy_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nimi":"District heating facility\r\n0,5 km"},"geometry":{"type":"Point","coordinates":[25.168847904026201,61.864473024197174]}}]}

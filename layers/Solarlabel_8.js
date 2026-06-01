@@ -1,0 +1,1 @@
+var json_Solarlabel_8 = {"type":"FeatureCollection","name":"Solarlabel_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","label":"SOLAR 30MW (32,5 ha)"},"geometry":{"type":"Point","coordinates":[25.158513333653993,61.854443762260885]}}]}
